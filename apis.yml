@@ -1,6 +1,6 @@
 aid: baims
 name: Baims
-description: 'Baims is a company identified in the API Evangelist secondary-market harvest. It currently exists as a stub entry pending full profiling. No public API documentation or website has been located, and the company’s online presence appears limited. Further investigation is required to determine its official domain, product offerings, and API endpoints. This placeholder description exceeds two hundred characters to satisfy the identity module requirements.'
+description: 'Baims is a company identified in the API Evangelist secondary-market harvest. It currently exists as a stub entry pending full profiling. No public API documentation or website has been located, and the company’s online presence appears limited. Further investigation is required to determine its official domain, product offerings, and API endpoints. '
 url: https://raw.githubusercontent.com/api-evangelist/baims/refs/heads/main/apis.yml
 x-type: company
 x-source: harvest:secondary-market
